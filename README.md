@@ -1,4 +1,4 @@
-# qa-take-home-assignment-
+# qa-take-home-assignment
 # QA Engineer Assignment — VARStreet
 
 ##  Candidate Details 
